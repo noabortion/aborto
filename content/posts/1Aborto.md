@@ -1,8 +1,8 @@
 ---
 template: "post"
 title: "Aborto Análisis del Fenómeno"
-cover: "../images/1NewAge.jpg"
-date: "2007-08-13T08:00:00Z"
+cover: "../images/abor.jpeg"
+date: "2021-09-27T08:00:00Z"
 slug: "Aborto-Analisis-Fenomeno"
 keywords: "aborto"
 categories: 
@@ -21,11 +21,12 @@ Recientemente se dio el hecho de la despenalización del aborto en la Corte Supr
 
  
 # ¿Qué es el aborto?
-Básicamente es el finalizar la  una vida humana que se está formando en la etapa embrionaria y/o fetal. 
+Básicamente es el finalizar la  una vida humana que se está formando en la etapa embrionaria y/o fetal.   
 
 ## ¿Pero cómo se llegaron a este fenómeno en la actualidad?
-Definitivamente el origen viene de la teoría (https://es.wikipedia.org/wiki/Neomalthusianismo)[neomaltusiana] propone planificar de modo centralizado los nacimientos de modo que sean algunos quienes decidan quiénes deben nacer y quiénes no.   
-¿Razonamiento de fondo? A menor número de personas, mejor distribución de la riqueza., ¿Pero aquí viene la pregunta entonces como aplicarla?  
+Definitivamente el origen viene de la teoría [neomalthusiana](https://es.wikipedia.org/wiki/Neomalthusianismo) propone planificar de modo centralizado los nacimientos de modo que sean algunos quienes decidan quiénes deben nacer y quiénes no.   
+¿Razonamiento de fondo? A menor número de personas, mejor distribución de la riqueza.
+¿Pero aquí viene la pregunta entonces como aplicarla?    
 ![Poblacion](../images/pobla.png)
 
 # ONU y OMS
@@ -37,14 +38,18 @@ Definitivamente el origen viene de la teoría (https://es.wikipedia.org/wiki/Neo
   * Conferencias mundiales sobre la mujer Pekin 1995
   * Cumbre de la Tierra de Río de Janeiro Rio de Janeiro 1992
 
-Si tiene tiempo de leer vera que, aquí donde sale toda la propaganda del **ABORTO** , pero sin decirlo como lo es realmente, solo dicen “Asegurar acceso a  derechos de salud reproductiva o sexual”.
+Aquí donde sale toda la propaganda del **ABORTO** , pero sin decirlo como lo es realmente, solo dicen “Asegurar acceso a  derechos de salud reproductiva o sexual”.
 
-Otro claro, ejemplo actual es este de aquí *"Genero, Salud y la agenda 2030 para el desarrollo sostenible"*, Aqui viene otra pregunta que es la agenda 2030?.
+Otro claro, ejemplo actual es este de aquí *"Genero, Salud y la agenda 2030 para el desarrollo sostenible"*. 
+Aqui viene otra pregunta que es la agenda 2030?.  
 
 ### Agenda 2030
 Si vemos la página de la agenda 2030 también marca como sus pilares fundamentales la imposición del aborto en todo el mundo
-para poder desarrollar su agenda de 17 objetivos sustentables. Pero no lo dice tal cuál es **aborto**, lo dice como "Derechos Humanos" para hacerlo mundialmente aceptable. Dado que, si lees alguno de estos artículos, te darás cuenta que dice **derechos humanos, salud sexual o reproductiva, factor de desigualdad**.   
-![2030](../images/2030.png)
+para poder desarrollar su agenda de 17 objetivos sustentables. Pero no lo dice tal cuál es **aborto**, lo dice como "Derechos Humanos" para hacerlo mundialmente aceptable.   
+Dado que, si lees alguno de estos artículos, te darás cuenta que dice **derechos humanos, salud sexual o reproductiva, factor de desigualdad**.   
+
+
+![2030](../images/2030.PNG)
 
 Aqui es donde claramente ya, entran las empresas en juego, pues aquí vemos a **Planned Parenthood** fue una de las 12 organizaciones (todas abortistas), detrás de los Acuerdos de París con respecto al clima. ¿Lo sabías? Son estas: EngenderHealth, FHI360, Guttmacher Institute, Ipas, International Planned Parenthood Federation, Margaret Pyke Trust, Marie Stopes International, PAI, Plan International UK, Population Council, PSI y Women Deliver.
 
@@ -59,6 +64,7 @@ Es inevitable ver como empresas abortivas básicamente siguen estos lineamientos
 
 Planned Parenthood. Por ejemplo, esto afirman en su sitio web: **“Al considerar soluciones a la crisis del cambio climático, los servicios de salud sexual y reproductiva podrían no ser lo primero que se nos ocurra, pero en realidad podrían desempeñar un papel muy importante en estrategias ambientales positivas.”**
 
+
 # El aborto es un negocio
 Al analizar esta agenda básicamente vemos que aquí hay un interés desmedido ahora en muchos países de promover el aborto y vemos en medios de comunicación masiva el **'proselitismo al aborto'**
 
@@ -67,11 +73,12 @@ Planned Parenthood calcula, hay **más 214 millones de mujeres y niñas que pued
 
 Si contamos por ejemplo que también hay otras formas de sacar dinero por ejemplo la empresa **"Semonyx"** (algunos de sus clientes son empresas de estos productos, Ocean Spray, Tropicana, Gatorade) que utiliza células fetales para poner a prueba sus potenciadores del sabor de los alimentos y bebidas. Pues la ganancia seria aún mayor.
 
+
 # Aborto es correcto o no
 Bueno vemos que hay muchos intereses en juego, pero lo que debería de importar es esto, **“Es correcto abortar”** es **“un ser humano”** a no lo es, **¿en qué momento inicia la vida?**     
 Creo que aquí es donde se debe de centrar tus y tus hijos e hijas.  
 
-![Fetos](../images/feto.png)
+![Fetos](../images/fetoc.jpg)
 
 > Si no es humano sería correcto, pero si es humano seria claramente un delito, ¿dado que cual derecho o libertad puede estar por encima de la vida de una persona?  
 
@@ -90,19 +97,18 @@ Bueno aquí creo que no tendría caso seguir pues es claro de comprobar, dado qu
 Por ejemplo, como comprobar si un feto es humano, si un humano es humano, o si un cadáver fue de un humano:
 > Fácil, has una prueba de ADN para saberlo, si se le hace a un feto saldrá que es humano, se hace una prueba de ADN a la madre, saldrá diferente sin duda.
 
-**¿Entonces son sus células?**, es el mismo cuerpo? **puede una persona tener dos tipos de ADN y dos pares de 46 cromosomas en el mismo cuerpo?**, o es otro ser humano. Claramente lo es. Y porque los jueces de la suprema corte no tomaron en cuenta esto, sin duda por interes!. 
+**¿Entonces son sus células?**, es el mismo cuerpo? **puede una persona tener dos tipos de ADN y dos pares de 46 cromosomas en el mismo cuerpo?**, o es otro ser humano.   
+Claramente lo es. Y porque los jueces de la suprema corte no tomaron en cuenta esto, sin duda por interes!. 
 
-Referencias: 
-<www.revistamovimiento.com/historia/conferencia-mundial-de-poblacion-de-bucarest-1974-un-triunfo-de-la-argentina-frente-al-mundo/>
-<www.unfpa.org/sites/default/files/pub-pdf/icpd_spa.pdf>
-<www.unwomen.org/es/how-we-work/intergovernmental-support/world-conferences-on-women>
-<www.un.org/spanish/esa/sustdev/documents/declaracionrio.htm>
-<www.researchgate.net/publication/327266711_Gender_health_and_the_2030_agenda_for_sustainable_development>
-<es.wikipedia.org/wiki/Margaret_Sanger>
-<www.lifesitenews.com/blogs/ocean-spray-tropicana-gatorade-also-on-list-of-products-using-aborted-fetal/>
-<www.researchgate.net/publication/327266711_Gender_health_and_the_2030_agenda_for_sustainable_development>
-<www.natalben.com/desarrollo-feto-semana-a-semana>  
-
+Referencias:  
+<http://www.revistamovimiento.com/historia/conferencia-mundial-de-poblacion-de-bucarest-1974-un-triunfo-de-la-argentina-frente-al-mundo>  
+<http://www.unfpa.org/sites/default/files/pub-pdf/icpd_spa.pdf>  
+<http://www.unwomen.org/es/how-we-work/intergovernmental-support/world-conferences-on-women>  
+<http://www.un.org/spanish/esa/sustdev/documents/declaracionrio.htm>  
+<http://www.researchgate.net/publication/327266711_Gender_health_and_the_2030_agenda_for_sustainable_development>  
+<http://es.wikipedia.org/wiki/Margaret_Sanger>  
+<http://www.lifesitenews.com/blogs/ocean-spray-tropicana-gatorade-also-on-list-of-products-using-aborted-fetal>  
+<http://www.natalben.com/desarrollo-feto-semana-a-semana>    
 
 
 
