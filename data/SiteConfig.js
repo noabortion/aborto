@@ -30,7 +30,7 @@ const config = {
   btnLoadmore: "Load more",
   homeHasLoadmore: true,
   homeHasThumbnail: true,
-  homeHeader: "Home",
+  homeHeader: " Home",
   // Use for page
   pathPrefixPagination: "/page", // Prefix path for pagination
   pageNotFoundTitle: "Page Not Found", //
