@@ -4,7 +4,7 @@ import Navigation from "../components/Navigation/Navigation";
 import Footer from "../components/Footer/Footer";
 import ScrollToTop from "../components/ScrollToTop/ScrollToTop";
 import siteConfig from "../../data/SiteConfig";
-import brand from "../../content/images/brand.png";
+import brand from "../../content/images/feto.png";
 import "../components/Icons/FontAwesome";
 import "shiba-css/docs/css/shiba.min.css";
 import "../../content/styles/customize.scss";
