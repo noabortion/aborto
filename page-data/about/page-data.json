@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-jsx",
+    "path": "/about",
+    "result": {"data":{"markdownRemark":{"html":"","timeToRead":1,"excerpt":"","frontmatter":{"title":"About","description":"This is a description on About"},"fields":{"slug":"/about"}}},"pageContext":{"slug":"/about","tagList":["aborto"],"categoryList":["aborto"],"latestPostEdges":[{"node":{"fields":{"slug":"/aborto-analisis-fenomeno"},"frontmatter":{"template":"post","title":"Aborto Análisis del Fenómeno","tags":["aborto"],"categories":["aborto"],"date":"2021-09-27T08:00:00Z"}}}]}},
+    "staticQueryHashes": []}

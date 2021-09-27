@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-jsx",
+    "path": "/privacy",
+    "result": {"data":{"markdownRemark":{"html":"","timeToRead":1,"excerpt":"","frontmatter":{"title":"Privacy Policy","description":"This is a description on Privacy Policy"},"fields":{"slug":"/privacy"}}},"pageContext":{"slug":"/privacy","tagList":["aborto"],"categoryList":["aborto"],"latestPostEdges":[{"node":{"fields":{"slug":"/aborto-analisis-fenomeno"},"frontmatter":{"template":"post","title":"Aborto Análisis del Fenómeno","tags":["aborto"],"categories":["aborto"],"date":"2021-09-27T08:00:00Z"}}}]}},
+    "staticQueryHashes": []}
