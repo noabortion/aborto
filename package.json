@@ -84,7 +84,8 @@
     "write-good": "write-good $(glob 'content/posts/**/*.md')",
     "format:js": "prettier --write \"**/*.{js,jsx,ts,tsx}\"",
     "first-release": "standard-version --first-release",
-    "prerelease": "standard-version"
+    "prerelease": "standard-version",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "remarkConfig": {
     "plugins": [

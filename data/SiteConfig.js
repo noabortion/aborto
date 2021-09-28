@@ -5,8 +5,8 @@ const config = {
   siteTitleAlt: "Aborto Análisis del Fenómeno", // Alternative site title for SEO.
   siteLogo: "/logos/feto.png", // Logo used for SEO and manifest.
   siteUrl: "https://gb-template.netlify.com", // Domain of your website without pathPrefix.
-  pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: "Aorto ", // Website description used for RSS feeds/meta description tag.
+  pathPrefix: "/aborto", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
+  siteDescription: "Aborto ", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteLang: "en",
   siteFBAppID: "399626517562189", // FB Application ID for using app insights
