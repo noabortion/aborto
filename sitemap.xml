@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://gb-template.netlify.com/aborto/aborto/aborto-analisis-fenomeno</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gb-template.netlify.com/aborto/aborto/search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gb-template.netlify.com/aborto/aborto/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gb-template.netlify.com/aborto/aborto/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gb-template.netlify.com/aborto/aborto/privacy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/aborto/aborto/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/aborto/aborto/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/aborto/aborto/search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gb-template.netlify.com/aborto/aborto/terms</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gb-template.netlify.com/aborto/aborto/tag/aborto</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gb-template.netlify.com/aborto/aborto/category/aborto</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
