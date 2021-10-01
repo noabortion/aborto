@@ -59,16 +59,6 @@
   Link: </aborto/component---src-templates-post-template-jsx-8344f36275c06df46dd6.js>; rel=preload; as=script
   Link: </aborto/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </aborto/page-data/aborto-analisis-fenomeno/page-data.json>; rel=preload; as=fetch; crossorigin
-/aborto/privacy
-  Link: </aborto/webpack-runtime-4d1103accba2233c9ccb.js>; rel=preload; as=script
-  Link: </aborto/framework-0a148e3fbebc8be8f7e7.js>; rel=preload; as=script
-  Link: </aborto/app-3bf585afd411f7a05cf3.js>; rel=preload; as=script
-  Link: </aborto/cb1608f2-4ad3ae4a8a938e7fe51b.js>; rel=preload; as=script
-  Link: </aborto/a9a7754c-72f559bc80dbc94f9e6f.js>; rel=preload; as=script
-  Link: </aborto/e5ddc9d07ff53122a1bea9b3e73594ce6812cb5e-9749ef4dfd417b19b96b.js>; rel=preload; as=script
-  Link: </aborto/component---src-templates-page-template-jsx-fb220f585cf063c87d57.js>; rel=preload; as=script
-  Link: </aborto/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </aborto/page-data/privacy/page-data.json>; rel=preload; as=fetch; crossorigin
 /aborto/about
   Link: </aborto/webpack-runtime-4d1103accba2233c9ccb.js>; rel=preload; as=script
   Link: </aborto/framework-0a148e3fbebc8be8f7e7.js>; rel=preload; as=script
@@ -79,6 +69,16 @@
   Link: </aborto/component---src-templates-page-template-jsx-fb220f585cf063c87d57.js>; rel=preload; as=script
   Link: </aborto/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </aborto/page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/aborto/privacy
+  Link: </aborto/webpack-runtime-4d1103accba2233c9ccb.js>; rel=preload; as=script
+  Link: </aborto/framework-0a148e3fbebc8be8f7e7.js>; rel=preload; as=script
+  Link: </aborto/app-3bf585afd411f7a05cf3.js>; rel=preload; as=script
+  Link: </aborto/cb1608f2-4ad3ae4a8a938e7fe51b.js>; rel=preload; as=script
+  Link: </aborto/a9a7754c-72f559bc80dbc94f9e6f.js>; rel=preload; as=script
+  Link: </aborto/e5ddc9d07ff53122a1bea9b3e73594ce6812cb5e-9749ef4dfd417b19b96b.js>; rel=preload; as=script
+  Link: </aborto/component---src-templates-page-template-jsx-fb220f585cf063c87d57.js>; rel=preload; as=script
+  Link: </aborto/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </aborto/page-data/privacy/page-data.json>; rel=preload; as=fetch; crossorigin
 /aborto/contact
   Link: </aborto/webpack-runtime-4d1103accba2233c9ccb.js>; rel=preload; as=script
   Link: </aborto/framework-0a148e3fbebc8be8f7e7.js>; rel=preload; as=script
